@@ -1,0 +1,92 @@
+{
+  "10px": {
+    "scope": "css",
+    "prefix": "10r",
+    "body": "0.625",
+    "description": "10px in rem units"
+  },
+
+  "11px": {
+    "scope": "css",
+    "prefix": "11r",
+    "body": "0.6875rem;",
+    "description": "11px in rem units"
+  },
+
+  "12px": {
+    "scope": "css",
+    "prefix": "12r",
+    "body": "0.75rem;",
+    "description": "12px in rem units"
+  },
+
+  "13px": {
+    "scope": "css",
+    "prefix": "13r",
+    "body": "0.8125rem;",
+    "description": "13px in rem units"
+  },
+
+  "14px": {
+    "scope": "css",
+    "prefix": "14r",
+    "body": "0.875rem;",
+    "description": "14px in rem units"
+  },
+
+  "15px": {
+    "scope": "css",
+    "prefix": "15r",
+    "body": "0.9375rem;",
+    "description": "15px in rem units"
+  },
+
+  "16px": {
+    "scope": "css",
+    "prefix": "16r",
+    "body": "1rem;",
+    "description": "16px in rem units"
+  },
+
+  "17px": {
+    "scope": "css",
+    "prefix": "17r",
+    "body": "1.0625rem;",
+    "description": "17px in rem units"
+  },
+
+  "18px": {
+    "scope": "css",
+    "prefix": "18r",
+    "body": "1.125rem;",
+    "description": "18px in rem units"
+  },
+
+  "19px": {
+    "scope": "css",
+    "prefix": "19r",
+    "body": "1.1875rem;",
+    "description": "19px in rem units"
+  },
+
+  "20px": {
+    "scope": "css",
+    "prefix": "20r",
+    "body": "1.25rem;",
+    "description": "20px in rem units"
+  },
+
+  "21px": {
+    "scope": "css",
+    "prefix": "21r",
+    "body": "1.3125rem;",
+    "description": "21px in rem units"
+  },
+
+  "22px": {
+    "scope": "css",
+    "prefix": "22r",
+    "body": "1.375rem;",
+    "description": "22px in rem units"
+  }
+}
